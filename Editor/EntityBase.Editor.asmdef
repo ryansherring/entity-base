@@ -1,0 +1,23 @@
+{
+    "name": "EntityBase.Editor",
+    "rootNamespace": "EntityBase.Editor",
+    "references": [
+        "EntityBase",
+        "Unity.InputSystem",
+        "Unity.Cinemachine",
+        "AstarPathfindingProject",
+        "PackageTools",
+        "Drawing"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,35 @@
+{
+  "name": "com.ransherring.entity-base",
+  "version": "0.2.0",
+  "displayName": "Entity Base",
+  "description": "Modular entity framework with locomotion, animation, stats, inventory, and abilities for Player and NPC entities.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.inputsystem": "1.18.0",
+    "com.unity.cinemachine": "3.1.0"
+  },
+  "keywords": [
+    "character",
+    "locomotion",
+    "movement",
+    "entity",
+    "npc",
+    "player",
+    "inventory",
+    "abilities",
+    "stats",
+    "animator"
+  ],
+  "author": {
+    "name": "Ran Sherring",
+    "url": "https://github.com/ransherring"
+  },
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Default Assets",
+      "description": "One-click setup scripts for creating default stat definitions, sample items, sample abilities, and a test scene.",
+      "path": "Samples~/Default Assets"
+    }
+  ]
+}
