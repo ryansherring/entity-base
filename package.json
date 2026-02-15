@@ -1,5 +1,5 @@
 {
-  "name": "com.ransherring.entity-base",
+  "name": "com.ryansherring.entity-base",
   "version": "0.2.0",
   "displayName": "Entity Base",
   "description": "Modular entity framework with locomotion, animation, stats, inventory, and abilities for Player and NPC entities.",
@@ -21,8 +21,8 @@
     "animator"
   ],
   "author": {
-    "name": "Ran Sherring",
-    "url": "https://github.com/ransherring"
+    "name": "Ryan Sherring",
+    "url": "https://github.com/ryansherring"
   },
   "license": "MIT",
   "samples": [

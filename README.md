@@ -89,13 +89,13 @@ Before installing Entity Base, ensure these are already in your project:
 In Unity: **Window > Package Manager > + > Add package from git URL**, then enter:
 
 ```
-https://github.com/ransherring/entity-base.git
+https://github.com/ryansherring/entity-base.git
 ```
 
 To pin a specific version, append the tag:
 
 ```
-https://github.com/ransherring/entity-base.git#v0.2.0
+https://github.com/ryansherring/entity-base.git#v0.2.0
 ```
 
 Or add directly to `Packages/manifest.json`:
@@ -103,7 +103,7 @@ Or add directly to `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.ransherring.entity-base": "https://github.com/ransherring/entity-base.git#v0.2.0"
+    "com.ryansherring.entity-base": "https://github.com/ryansherring/entity-base.git#v0.2.0"
   }
 }
 ```
@@ -115,7 +115,7 @@ Clone or copy the package folder into your project's `Packages/` directory:
 ```
 YourProject/
   Packages/
-    com.ransherring.entity-base/   <-- this package
+    com.ryansherring.entity-base/   <-- this package
     manifest.json
 ```
 
@@ -374,7 +374,7 @@ public class CombatSystem : MonoBehaviour
 ## Package Structure
 
 ```
-com.ransherring.entity-base/
+com.ryansherring.entity-base/
   package.json
   README.md, CHANGELOG.md, LICENSE.md
 
